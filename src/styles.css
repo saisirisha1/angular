@@ -11,7 +11,7 @@
     margin-top: 5%;
 }
 
-input.ng-invalid.ng-touched { border: solid 1px red;}
+input.ng-invalid.ng-touched { border: solid double 2px green;}
 .input-full-width { width: 100%;}
 .txtb{font-weight: bold;}
 .mat-radio-label-content { font-weight: normal}
